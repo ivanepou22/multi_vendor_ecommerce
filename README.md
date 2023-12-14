@@ -47,6 +47,7 @@ Install Dependencies:
 ```bash
 cd your-repo
 npm install  # or yarn install
+```
 
 Database Setup:
 [Provide instructions for setting up and configuring the database.]
